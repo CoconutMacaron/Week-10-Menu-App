@@ -8,7 +8,7 @@ public class DBConnection {
 
 	private final static String URL = "jdbc:mysql://localhost:3306/pokedex";
 	private final static String USERNAME = "root";
-	private final static String PASSWORD = "coconut";
+	private final static String PASSWORD = "coconut ";
 	private static Connection connection;
 	private static DBConnection instance;
 
